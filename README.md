@@ -15,4 +15,4 @@ Bootstrap, TailWind CSS, Bulma, Foundation, Semantic UI, Materialize, UIkit (UI 
 
 
 # View Website -
-https://6524665f4bd2293a2e0e5594--birthday-wisher-greeting.netlify.app/
+https://birthday-wisher-greeting.netlify.app/
