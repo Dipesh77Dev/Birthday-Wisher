@@ -1,0 +1,18 @@
+{
+"birthdayData" : [
+    {
+        "id": 1,
+        "name": "Goku",
+        "desc": "Cute Boy",
+        "image": "",
+        "date": "13/7/23"
+    },
+    {
+        "id": 2,
+        "name": "Suraj",
+        "desc": "Naughty Boy",
+        "image": "",
+        "date": "10/10/23"
+    }
+]
+}
