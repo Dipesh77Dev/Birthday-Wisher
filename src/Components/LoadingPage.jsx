@@ -38,7 +38,7 @@ const LoadingPage = () => {
           }
         </div>
         <h1 className="loading_page_username">
-          Hi - "{getDataFromLS}" 😉 for Login
+          Hi - "{getDataFromLS}" 😉 Thanks for Login..
         </h1>
       </div>
     </>
